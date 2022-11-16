@@ -20,18 +20,18 @@
 	* Warframe API Tracker
 
 * **Music**
-	* Player (Message binded) ~.1~
+	* Player (Message binded) **.1**
 	* DB Playlist
 	* Simple Web service (unstable/WIP)
 
 * **Others**
-	* Static DB Connection (with Pooling) ~.2~
+	* Static DB Connection (with Pooling) **.2**
 	* Temp Channel
-	* Caching (Message & Channel IDs, Webhooks) ~.3~
+	* Caching (Message & Channel IDs, Webhooks) **.3**
 	* AssetPool (Images (local or Link))
-> **~.1~** The Player supports Twitch, Soundcloud & Youtube. It use the [Walkyst Lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
->**~.2~** The DB Connection does not use Prepared Statementsn this example, which risk a injection
->**~.3~** Values can be declared in the outer properties files
+>**.1** The Player supports Twitch, Soundcloud & Youtube. It use the [Walkyst Lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)<br>
+>**.2** The DB Connection does not use Prepared Statementsn this example, which risk a injection<br>
+>**.3** Values can be declared in the outer properties files
 ***
 ## Dependencies
 
